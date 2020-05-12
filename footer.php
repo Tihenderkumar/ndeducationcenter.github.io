@@ -1,0 +1,1 @@
+<p class="text-center bg-dark text-white">@All Copyright Reserve N.D.Education Center 2020</p>
